@@ -12,5 +12,5 @@ int main()
         cout<<"\nenter a positive number";
     }
     summation=(n*(n+1))/2;
-    cout<<"\nthe summation of all the positive numbers till the entered number is:  "<<summation;
+    cout<<"\nthe summation of all the positive numbers till the entered number is:  "<<summation<<endl;
 }
