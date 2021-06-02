@@ -9,7 +9,7 @@ int main()
     cin>>num;
     if(num<1)
     {
-        cout<<"the entered number is negative";
+        cout<<"the entered number is negative"<<endl;
     }
     else if(num>1)
     {

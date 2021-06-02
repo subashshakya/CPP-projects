@@ -9,7 +9,7 @@ int main()
     cin>>n;
     if(n<0)
     {
-        cout<<"\nenter a positive number";
+        cout<<"\nenter a positive number"<<endl;
     }
     summation=(n*(n+1))/2;
     cout<<"\nthe summation of all the positive numbers till the entered number is:  "<<summation<<endl;

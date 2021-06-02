@@ -15,7 +15,7 @@ int main()
     {
         if(num%2==0)
         {
-            cout<<"the entered number is even";
+            cout<<"the entered number is even"<<endl;
         }
         else{
             cout<<"the entered number is odd";

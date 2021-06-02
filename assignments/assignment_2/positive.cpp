@@ -14,5 +14,5 @@ int main()
     else{
         num=num;
     }
-    cout<<"the positive of the given number is:"<<num;
+    cout<<"the positive of the given number is:"<<num<<endl;
 }
