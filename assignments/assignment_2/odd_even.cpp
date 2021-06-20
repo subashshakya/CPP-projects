@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    //odd or even
     int num;
     cout<<"\nenter any number:";
     cin>>num;
