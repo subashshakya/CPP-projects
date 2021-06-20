@@ -1,5 +1,7 @@
 #include<iostream>
 
+//student info
+
 using namespace std;
 
 class Student{
