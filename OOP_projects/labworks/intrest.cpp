@@ -1,5 +1,7 @@
 #include<iostream>
 
+
+//simple intrest with oop
 using namespace std;
 
 class Intrest{
