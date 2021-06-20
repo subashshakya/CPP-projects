@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    //string comparision
+    //program for string comparision
     char str1[20],str2[20];
     int res;
     cout<<"\nenter any word:";
