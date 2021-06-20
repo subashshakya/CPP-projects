@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    //positive or negative
     int num;
     cout<<"enter any number you want to:";
     cin>>num;
