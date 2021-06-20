@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//employee id
+
 class Employee{
 private:
     int MemID;
