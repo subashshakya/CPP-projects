@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+    //string concatination
     char str1[20],str2[20];
     cout<<"\nEnter any  string:";
     cin>>str1;

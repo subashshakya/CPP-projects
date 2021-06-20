@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    //string reverse
     string str1;
     cout<<"\nenter any string to be reversed";
     cin>>str1;

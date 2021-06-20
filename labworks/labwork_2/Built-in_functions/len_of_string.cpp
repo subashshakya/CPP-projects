@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    //length of string
     char inin[100];
     int len;
     cout<<"\nenter any string: ";

@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    //string interchange
     char str1[20],str2[20];
     cout<<"\nEnter a string for interchange:";
     cin>>str1;
