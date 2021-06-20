@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    //with maths header
     float a,b,c,s,area;
     cout<<"enter the first side of the triangle:";
     cin>>a;
