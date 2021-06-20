@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    //sum of all numbers
     int n,summation;
     cout<<"\nthe entered number will be added from 0 to that number:";
     cin>>n;
