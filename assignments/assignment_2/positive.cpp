@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    //to print the positive number
     int num;
     cout<<"Enter any number either positive or negative";
     cin>>num;
