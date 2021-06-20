@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    //calculator with switch case
     int num1,num2;
     char symbol;
     cout<<"\nenter any number:";
