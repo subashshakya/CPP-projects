@@ -34,4 +34,6 @@ int main()
     obj2.show();
     obj1.display();
     obj2.display();
+    return 0;
+    cout<<" ";
 }
