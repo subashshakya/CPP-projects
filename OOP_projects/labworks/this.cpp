@@ -19,4 +19,6 @@ int main()
     mobile m1,m2;
     m1.display();
     m2.display();
+    return 0;
+    cout<<" ";
 }
