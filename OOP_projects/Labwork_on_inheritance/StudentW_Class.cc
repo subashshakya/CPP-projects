@@ -95,7 +95,7 @@ public:
         double tot=Total();
         cout<<"\nName:"<<this->Name;
         cout<<"\nRoll number:"<<this->RollNo;
-        cout<<"\nTotal socre is:"<<tot;
+        cout<<"\nTotal socre is:"<<tot<<endl;
     }
 };
 
