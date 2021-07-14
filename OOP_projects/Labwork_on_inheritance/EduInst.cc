@@ -120,7 +120,7 @@ int main()
     Casual c1;
     Regular r1;
     int index;
-    int check;
+    char check;
     cout<<"\n              **Welcome to Data Collection!**              ";
     cout<<"\nPlease enter your category which you belong to:";
     cout<<"\nEnter 1 for Teacher.";
