@@ -1,3 +1,5 @@
+//Illustration of how virtual destructors and New keyword along with Delete is used for memory management inside the program
+
 #include<iostream>
 
 using namespace std;
@@ -47,3 +49,7 @@ int main()
     p1->Display();
     delete p1;
 }
+
+//new has same working mechanism as &
+
+//delete can be thought of as the equivalent of destructors, but for pointers which use new keyword.
