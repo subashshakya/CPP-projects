@@ -26,3 +26,4 @@ int main()
         ++f1;
     }
 }
+//pre fix fibo
