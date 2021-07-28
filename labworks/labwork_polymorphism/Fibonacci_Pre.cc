@@ -1,21 +1,28 @@
 #include<iostream>
  
 using namespace std;
- 
+
+class Fibo
+{
+public:
+    int first=0, second = 1, third;
+
+    void operator ++()
+    {
+        cout<<first<<endl;
+        third=first+second;
+        first = second;
+        second= third;
+    }
+};
 int main()
 {
-    int ini=1;
-    int second=1;
-    int i,third,cont;
-    cout<<ini<<endl;
-    cout<<second<<endl;
-    third=ini+second;
-    for(i=0;i<10;i++)
+    Fibo f1;
+    int i,index;
+    cout<<"Enter till which index do you want to display the series?"<<endl;
+    cin>>index;
+    for(i=0;i<index;i++)
     {
-        cout<<third<<endl;
-        cont=ini;
-        ini=second;
-        second=third;
-        third=ini+second;
+        ++f1;
     }
 }
