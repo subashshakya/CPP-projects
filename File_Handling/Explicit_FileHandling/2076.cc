@@ -22,5 +22,7 @@ int main()
         }
     }
     cout<<"\n"<<fileOut;
+    ofstream outfile("newFile.doc", ios::binary);
+    outfile<<fileOut;
     return 0;
 }
